@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at Veermata Jijabai Technical College(VJTI) pursuing B.Tech in Computer Engineering<br>I'm a Full Stack Developer and exploring AI/ML<br>I’m looking to collaborate on the domains of c++, java, python, Web Development, App Development & AI/ML<br>How to reach me snehamenat@gmail.com<br> <br>
+I'm currently studying at Veermata Jijabai Technical College(VJTI) pursuing B.Tech in Computer Engineering<br>I'm a Full Stack Developer and exploring AI/ML<br>I’m looking to collaborate on the domains of c++, java, python, Web Development and & AI/ML<br>How to reach me snehamenat@gmail.com<br> <br>
 
 
 ## 🌐 Socials:
