@@ -70,15 +70,8 @@ I'm always curious about new areas of technology and enjoy taking on challenges 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha0019&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20GitHub%20Activity"
-    width="95%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sneha0019&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
-    height="170"
+    src="https://streak-stats.demolab.com/?user=Sneha0019&theme=tokyonight&hide_border=true"
+    alt="Sneha's GitHub Streak"
   />
 </p>
 
