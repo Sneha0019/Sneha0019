@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Menat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;Former+Goldman+Sachs+Summer+Analyst;LeetCode+Knight+%F0%9F%8F%86;Full+Stack+Developer;Backend+%26+AI+Enthusiast;Building+Scalable+Applications" />
+  <strong>Software Engineer @ BNY · Builder · Always Curious</strong>
 </p>
 
 <p align="center">
@@ -18,96 +18,74 @@
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 Computer Engineering Graduate from **Veermata Jijabai Technological Institute (VJTI)**
+I am a software engineer who enjoys building things, solving interesting problems, and learning by doing.
 
-💻 Former **Summer Analyst Intern @ Goldman Sachs**
+- 💼 **Software Engineer @ BNY**
+- 🎓 Computer Engineering Graduate from **VJTI, Mumbai**
+- 💻 Former **Summer Analyst @ Goldman Sachs**
+- 🏆 **LeetCode Knight** | 1000+ DSA problems solved
+- 🌱 Open-source contributor through **GSSoC**
 
-🏆 **LeetCode Knight** | Solved **1000+ DSA Problems** across coding platforms
+---
 
-🚀 Passionate about building scalable backend systems, full-stack applications, and AI-powered solutions.
+## 🔭 Currently Exploring
 
-🌱 Currently exploring
+I'm always curious about new areas of technology and enjoy taking on challenges that push me beyond what I already know.
 
-- System Design
-- Distributed Systems
-- Artificial Intelligence
-- Cloud Technologies
+**Backend Engineering** · **Distributed Systems** · **System Design** · **Artificial Intelligence** · **Cloud**
 
+---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,c"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,c"/>
 </p>
 
-### Frontend
+### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring"/>
 </p>
 
-### Backend
+### Databases & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,firebase,redis"/>
-</p>
-
-### AI & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,aws"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sneha0019&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha0019&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha0019&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:snehamenat029@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sneha-menat-0766b9233/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://sneha-portfolio-one-delta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+  <img src="./github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
+## 🤝 Let's Connect
+
+Always open to interesting opportunities, experiences, collaborations, and conversations.
+
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
+  <a href="mailto:snehamenat029@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/sneha-menat-0766b9233/">LinkedIn</a>
+  ·
+  <a href="https://sneha-portfolio-one-delta.vercel.app/">Portfolio</a>
+</p>
+
+<p align="center">
+  <i>Thanks for stopping by 👋</i>
 </p>
